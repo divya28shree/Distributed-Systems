@@ -2,7 +2,7 @@
 # (CSE 586 - SUNY BUFFALO)
 
 ## Simple Messenger:
-Simple Messanger App for Android. Goal of this ap is to enable two android devices to send message to each other.
+Simple Messanger App for Android. Goal of this app is to enable two android devices to send message to each other.
 
 ## Group Messenger 1:
 Design a group messanger that can send message to multiple AVDs and store them in permanent key-value storage.
